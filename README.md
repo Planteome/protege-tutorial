@@ -1,6 +1,16 @@
-Instructions:
+Planteome Protege/OWL Course, Corvalis, November 2015
 
-We will work through the examples in this directory. Each section
+# Intro
+
+
+
+# Tutorial
+
+The tutorial text is here
+
+ * [presentations/protege_planteome_tutorial.doc](presentations/protege_planteome_tutorial.doc)
+
+We will work through the following examples. Each section
 introduces new constructs and/or concepts.
 
 For each section, the instructor will first demonstrate some
@@ -8,20 +18,13 @@ examples. The students will then follow the instructions in the
 README.txt file for the section. After completion, the students can
 exchange OWL files and review one another's work.
 
-Suggested Order:
+## Basics
 
  * [basic-subclass](basic-subclass)
 
     Task: build a basic hierarchy
     Constructs: SubClass, annotations
     Uses reasoner: None
-    Ontology: cell component (subset)
-
- * [basic-disjoint](basic-disjoint)
-
-    Task: find problems in ontology
-    Constructs: DisjointWith
-    Uses reasoner: Hermit
     Ontology: cell component (subset)
 
  * [basic-restriction](basic-restriction)
@@ -42,6 +45,22 @@ Suggested Order:
 
     Task: use reasoner to build hierarchy
     Constructs: SubClass, "some", Equivalence, "and" (intersection)
+    Uses reasoner: Hermit
+    Ontology: cell component (subset)
+
+## Optional
+
+ * [disjoint-expressions](disjoint-expressions)
+
+    Note: the instructor may use this one as an example
+    Task: create spatial disjointness axioms without the use of helper "X part" classes
+    Constructs: General Axioms
+    Uses Reasoner: Hermit
+
+ * [basic-disjoint](basic-disjoint)
+
+    Task: find problems in ontology
+    Constructs: DisjointWith
     Uses reasoner: Hermit
     Ontology: cell component (subset)
 
@@ -82,12 +101,6 @@ Suggested Order:
     Uses Reasoner: Hermit or Elk
     Ontology: BP (Subset) and import of Chebi plus extras
 
- * [disjoint-expressions](disjoint-expressions)
-
-    Note: the instructor may use this one as an example
-    Task: create spatial disjointness axioms without the use of helper "X part" classes
-    Constructs: General Axioms
-    Uses Reasoner: Hermit
 
  * [obo-owl-classification](obo-owl-classification)
 
@@ -95,6 +108,5 @@ Suggested Order:
     Uses Reasoner: Hermit
     Requires: OE 2.1.1beta4 or higher
      
-
 
 
