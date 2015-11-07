@@ -2,7 +2,7 @@ Planteome Protege/OWL Course, Corvalis, November 2015
 
 # Intro
 
-
+ * [presentations/Protege-OWL-Intro.pptx](presentations/Protege-OWL-Intro.pptx)
 
 # Tutorial
 
