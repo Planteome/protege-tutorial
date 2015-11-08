@@ -3238,12 +3238,6 @@
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/PO_0009082">
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spikelet floret</rdfs:label>
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/PO_0009046"/>
-        <rdfs:subClassOf>
-            <owl:Restriction>
-                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
-                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/PO_0009051"/>
-            </owl:Restriction>
-        </rdfs:subClassOf>
         <oboInOwl:hasRelatedSynonym rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></oboInOwl:hasRelatedSynonym>
         <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A small flower (PO:0009046) that is part of a spikelet (PO:0009051).</obo:IAO_0000115>
         <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A spikelet floret (PO:0009082) is enclosed by one or both the flower bracts (PO:0009034);  lemma (PO:0009037) and palea (PO:0009038) and also includes a lodicule (PO:0009036).  To describe a floret of the Asteraceae, use ray flower (PO:0025331) or disk flower (PO:0025332).  Found in Poaceae, Cyperaceae and other Poales.</rdfs:comment>

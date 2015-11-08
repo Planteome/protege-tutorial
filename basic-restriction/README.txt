@@ -13,7 +13,7 @@ that are part of a hand.
 
 Instructions:
 
-# open er-sec-complex.owl
+# open flowers2.owl
 # navigate to the class "protein complex" using the search box
 # Add a class 'endoplasmic reticulum Sec complex' as a subclass of "protein complex"
 # Say that every ER-Sec-complex is part of a rough ER membrane
