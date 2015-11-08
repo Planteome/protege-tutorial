@@ -1,5 +1,11 @@
 Planteome Protege/OWL Course, Corvalis, November 2015
 
+The main goal of the tutorial is have participants understand the
+principles of developing OWL ontologies, how classes can be combined
+together, how a reasoner can be used for auto-classification and
+error-checking.
+
+
 # Intro
 
  * [presentations/Protege-OWL-Intro.pptx](presentations/Protege-OWL-Intro.pptx)
