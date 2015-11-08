@@ -13,10 +13,17 @@ Instructions:
 
 Adding new classes (basic):
 
-# Add the term "tassel floret" to the ontology under "staminate flower"
- # don't worry about the ID
- # See the file "HINTS.obo" or the existing PO for the exact values
- # Add a text definition
-  # Add 2 def dbxrefs to the text definition
- # Add a related synonym
+ * Add the term "tassel floret" to the ontology under "staminate flower"
+    * don't worry about the ID
+    * See the file "HINTS.obo" or the existing PO for the exact values
+    * Add a text definition
+     * Add 2 def dbxrefs to the text definition
+    * Add a related synonym
+
+Adding missing classes:
+
+ * navigate to 'flower bract'
+ * add parent 'bract'
+ * remove redundant 'phyllome'
+
 
