@@ -10,7 +10,7 @@ Ontology: <http://purl.obolibrary.org/obo/ro-slim.owl>
 
 
 ObjectProperty: <http://purl.obolibrary.org/obo/BFO_0000066>
-
+  Annotations: rdfs:label "occurs in"
     SubPropertyChain: 
         <http://purl.obolibrary.org/obo/BFO_0000066> o <http://purl.obolibrary.org/obo/BFO_0000050>
     
@@ -19,5 +19,6 @@ ObjectProperty: <http://purl.obolibrary.org/obo/BFO_0000066>
     
     
 ObjectProperty: <http://purl.obolibrary.org/obo/BFO_0000050>
+  Annotations: rdfs:label "part of"
 
     
