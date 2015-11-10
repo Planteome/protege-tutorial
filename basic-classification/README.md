@@ -4,7 +4,7 @@ classes" and automatic classification.
 # Plant Example
 
  1. Check out plant-ontology from github
- 2. Open plant-ontology.owl (or the obo if you have the latest protege)
+ 2. Open plant-ontology.owl (or the obo if you have the latest protege) -- alternatively use po-slim.owl in this directory
  3. Start hermit
  4. Do a DL query for ('plant organ' and 'part of' some flower)
  5. Do you see stamen in the results?
