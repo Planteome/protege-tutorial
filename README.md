@@ -8,6 +8,10 @@ principles of developing OWL ontologies, how classes can be combined
 together, how a reasoner can be used for auto-classification and
 error-checking.
 
+This course requires Protege5-beta18 or higher. For status, see:
+
+https://github.com/protegeproject/protege/issues/151#issuecomment-141599034
+
 
 # Intro
 
