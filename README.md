@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/Planteome/protege-tutorial.svg?branch=master)](https://travis-ci.org/Planteome/protege-tutorial)
+[![DOI](https://zenodo.org/badge/13996/Planteome/protege-tutorial.svg)](https://zenodo.org/badge/latestdoi/13996/Planteome/protege-tutorial)
+
 Planteome Protege/OWL Course, Corvalis, November 2015
 
 The main goal of the tutorial is have participants understand the
