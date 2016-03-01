@@ -10,5 +10,4 @@ You can generate the ontology from the CSV like this:
 
     python3 apply-pattern.py -p simple_measurable.yaml -i test1.csv > mytest.owl
 
-
-
+Now open this in Protege, switch on Elk, and look at the inferred hierarchy
